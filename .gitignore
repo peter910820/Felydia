@@ -28,6 +28,32 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+# Test and code coverage output
+TestResults/
+coverage/
+coverage.cobertura.xml
+
+# IDE user and workspace settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# AI coding agents (rules / local config)
+.cursor/
+.claude/
+.windsurf/
+.continue/
+.codex/
+.gemini/
+.roo/
+.agent/
+.aider*
+.clinerules
+.cursorrules
+
+
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
