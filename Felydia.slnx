@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/Felydia.App/Felydia.App.fsproj" />
+    <Project Path="src/Felydia.Domain/Felydia.Domain.fsproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/Felydia.Tests/Felydia.Tests.fsproj" />
